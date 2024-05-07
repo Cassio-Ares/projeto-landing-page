@@ -13,6 +13,9 @@ A landing page está disponível para visualização em: https://zippy-quokka-bb
 Faça um git clone https://github.com/Cassio-Ares/projeto-landing-page.git
 
 ##Tecnologias Utilizadas
+
 HTML5
+
 CSS3
+
 JavaScript
